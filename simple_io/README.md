@@ -19,5 +19,5 @@ gtkwave simple_io_tb_results.vcd
 
 ## Testbench results
 
-The simulation results are displayed in the following timing diagram, which shows how the inputs are copied to the outputs.
+The testbench results are displayed in the following timing diagram, which shows how the inputs are copied to the outputs.
 ![Testbench results](tb_results.png)
