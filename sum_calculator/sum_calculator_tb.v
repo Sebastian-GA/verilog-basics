@@ -32,7 +32,7 @@ end
 
 initial begin
     $display("| num_selected | num_A | num_B | display |");
-    $monitor("|      %b      |    %d  |    %d  | %b |",selector, numA, numB, dispay);
+    $monitor("|      %b      |    %d  |    %d  | %b |",selector, numA, numB, display);
 end
 
 endmodule
